@@ -3,7 +3,7 @@ layout: post
 title: An overview of biomedical platforms for managing research data
 subtitle: Navale V., von Kaeppler D., McAuliffe M.
 cover-img: /assets/img/cloud-health.jpg
-thumbnail-img: /assets/img/foc.jpgg
+thumbnail-img: /assets/img/doc.jpg
 share-img: /assets/img/cloud-health.jpg
 tags: [cloud, biomed]
 author: Linnaeus Bundalian
