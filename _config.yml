@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Linnaeus' Blog
+#title: ''
 
 # Your name to show in the footer
 author: Linnaeus Bundalian
@@ -20,7 +20,7 @@ author: Linnaeus Bundalian
 ###############################################
 
 navbar-links:
-  Author's home: "https://linnaeusbundalian.com/#home"
+  Home: "https://linnaeusbundalian.com/#home"
 
 ################
 # --- Logo --- #
@@ -94,7 +94,6 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "linnaeusbundalian.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -109,7 +108,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+#post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
